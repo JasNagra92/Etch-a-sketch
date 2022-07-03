@@ -1,6 +1,6 @@
 body{
     display:flex;
-    height:256px;
+    height:512px;
     width:auto;
     justify-content: center;
     align-items: center;
@@ -8,8 +8,8 @@ body{
 .bigbox{
     display:flex;
     flex-wrap:wrap;
-    width:256px;
-    height:256px;
+    width:512px;
+    height:512px;
 }
 .box{
     width: 16px;
