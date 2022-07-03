@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    height:256px;
+    width:auto;
+    justify-content: center;
+    align-items: center;
+}
+.bigbox{
+    display:flex;
+    flex-wrap:wrap;
+    width:256px;
+    height:256px;
+}
+.box{
+    width: 16px;
+    height: 16px;
+}
+.hover{
+    background-color: black;
+}
