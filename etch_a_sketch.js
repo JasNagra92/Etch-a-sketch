@@ -28,7 +28,7 @@ function restart(num) {
     });
   }
 }
-let btn = document.querySelector("button");
+let btn = document.querySelector("#gridChoice");
 btn.addEventListener("click", (e) => {
   let size = prompt("how many squares accros for sketchpad?");
   restart(size);
