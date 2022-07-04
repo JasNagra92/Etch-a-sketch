@@ -1,4 +1,4 @@
-#flex-container {
+  #flex-container {
   display: flex;
   height: 512px;
   width: auto;
@@ -22,8 +22,11 @@
   width: 16px;
   height: 16px;
 }
-.hover {
+.hoverBlack {
   background-color: black;
+}
+.hoverRed{
+  background-color: red;
 }
 h1{
   text-align: center;
