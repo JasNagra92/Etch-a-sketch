@@ -1,4 +1,7 @@
-  #flex-container {
+*{
+  box-sizing: border-box;
+}
+#flex-container {
   display: flex;
   height: 512px;
   width: auto;
@@ -35,4 +38,7 @@ h1{
 button{
   box-shadow: 2px 2px 2px 2px black;
   border-radius: 2px;
+}
+.item{
+  border:1px solid black;
 }
